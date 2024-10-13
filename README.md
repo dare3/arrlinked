@@ -1,6 +1,5 @@
 # Arrays/Linked Lists
 
-[Download our starter code](https://curric.springboard.com/software-engineering-career-track/default/exercises/dsa-arrays-linked-lists.zip).
 
 We’ve supplied you with a ***Node*** class and a constructor for the ***LinkedList*** class. Here are descriptions of the methods you should write for instances of ***LinkedList***:
 
